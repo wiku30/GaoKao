@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2009</year>
+			<specialname>广告学</specialname>
+			<maxfs>542</maxfs>
+			<varfs>539</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>社会工作</specialname>
+			<maxfs>552</maxfs>
+			<varfs>552</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>社会工作</specialname>
+			<maxfs>524</maxfs>
+			<varfs>524</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>广告学</specialname>
+			<maxfs>535</maxfs>
+			<varfs>535</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2015</year>
+			<specialname>机械类</specialname>
+			<maxfs>493</maxfs>
+			<varfs>492</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>机械类（含车辆工程、机械设计制造及其自动化、机械电子工程）</specialname>
+			<maxfs>494</maxfs>
+			<varfs>--</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>机械类</specialname>
+			<maxfs>--</maxfs>
+			<varfs>492</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2010</year>
+			<specialname>电子信息科学与技术</specialname>
+			<maxfs>469</maxfs>
+			<varfs>469</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>国际经济与贸易</specialname>
+			<maxfs>482</maxfs>
+			<varfs>479</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

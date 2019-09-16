@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2006</year>
+			<specialname>法学</specialname>
+			<maxfs>496</maxfs>
+			<varfs>495</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>英语</specialname>
+			<maxfs>487</maxfs>
+			<varfs>485</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>新闻学</specialname>
+			<maxfs>506</maxfs>
+			<varfs>489</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>市场营销</specialname>
+			<maxfs>483</maxfs>
+			<varfs>483</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>汉语言文学</specialname>
+			<maxfs>518</maxfs>
+			<varfs>504</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

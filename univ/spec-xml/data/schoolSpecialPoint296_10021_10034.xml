@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2013</year>
+			<specialname>国际经济与贸易</specialname>
+			<maxfs>521</maxfs>
+			<varfs>511</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2012</year>
+			<specialname>国际经济与贸易</specialname>
+			<maxfs>546</maxfs>
+			<varfs>545</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2010</year>
+			<specialname>国际经济与贸易</specialname>
+			<maxfs>494</maxfs>
+			<varfs>492</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

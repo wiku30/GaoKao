@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2008</year>
+			<specialname>社会工作</specialname>
+			<maxfs>505</maxfs>
+			<varfs>489</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>服装设计与工程</specialname>
+			<maxfs>499</maxfs>
+			<varfs>479</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>工业设计</specialname>
+			<maxfs>506</maxfs>
+			<varfs>499</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>工业设计</specialname>
+			<maxfs>516</maxfs>
+			<varfs>486</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>服装设计与工程</specialname>
+			<maxfs>479</maxfs>
+			<varfs>474</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

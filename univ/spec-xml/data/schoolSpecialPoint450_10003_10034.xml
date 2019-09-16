@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2007</year>
+			<specialname>思想政治教育</specialname>
+			<maxfs>482</maxfs>
+			<varfs>478</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>社会工作</specialname>
+			<maxfs>482</maxfs>
+			<varfs>482</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>工商管理类（中外合作办学）</specialname>
+			<maxfs>485</maxfs>
+			<varfs>478</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>英语</specialname>
+			<maxfs>489</maxfs>
+			<varfs>489</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>工商管理类（中外合作办学）</specialname>
+			<maxfs>449</maxfs>
+			<varfs>449</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

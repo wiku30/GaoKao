@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2007</year>
+			<specialname>行政管理</specialname>
+			<maxfs>515</maxfs>
+			<varfs>500</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>英语</specialname>
+			<maxfs>503</maxfs>
+			<varfs>497</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>社会工作</specialname>
+			<maxfs>486</maxfs>
+			<varfs>480</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>社会工作</specialname>
+			<maxfs>520</maxfs>
+			<varfs>504</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>英语</specialname>
+			<maxfs>492</maxfs>
+			<varfs>492</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

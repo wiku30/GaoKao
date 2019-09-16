@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2009</year>
+			<specialname>对外汉语</specialname>
+			<maxfs>497</maxfs>
+			<varfs>497</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>法语</specialname>
+			<maxfs>495</maxfs>
+			<varfs>493</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>会计学</specialname>
+			<maxfs>489</maxfs>
+			<varfs>489</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2008</year>
+			<specialname>国际经济与贸易</specialname>
+			<maxfs>475</maxfs>
+			<varfs>475</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>日语</specialname>
+			<maxfs>443</maxfs>
+			<varfs>443</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

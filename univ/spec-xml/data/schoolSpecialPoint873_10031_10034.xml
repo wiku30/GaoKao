@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2014</year>
+			<specialname>护理学</specialname>
+			<maxfs>--</maxfs>
+			<varfs>498</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2013</year>
+			<specialname>护理学</specialname>
+			<maxfs>469</maxfs>
+			<varfs>449</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2008</year>
+			<specialname>英语</specialname>
+			<maxfs>544</maxfs>
+			<varfs>528</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2013</year>
+			<specialname>法学类</specialname>
+			<maxfs>545</maxfs>
+			<varfs>536</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2011</year>
+			<specialname>经济学</specialname>
+			<maxfs>575</maxfs>
+			<varfs>572</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

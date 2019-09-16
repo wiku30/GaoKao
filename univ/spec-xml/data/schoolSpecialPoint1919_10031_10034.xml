@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2014</year>
+			<specialname>学前教育</specialname>
+			<maxfs>--</maxfs>
+			<varfs>460</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>汉语言文学</specialname>
+			<maxfs>--</maxfs>
+			<varfs>461</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>汉语国际教育</specialname>
+			<maxfs>--</maxfs>
+			<varfs>487</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>新闻学</specialname>
+			<maxfs>--</maxfs>
+			<varfs>499</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

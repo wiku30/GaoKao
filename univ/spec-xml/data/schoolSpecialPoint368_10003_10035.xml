@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2015</year>
+			<specialname>高分子材料与工程</specialname>
+			<maxfs>486</maxfs>
+			<varfs>486</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>电气工程及其自动化</specialname>
+			<maxfs>--</maxfs>
+			<varfs>476</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>软件工程</specialname>
+			<maxfs>--</maxfs>
+			<varfs>482</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

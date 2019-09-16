@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2015</year>
+			<specialname>工商管理类</specialname>
+			<maxfs>533</maxfs>
+			<varfs>530</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>工商管理类</specialname>
+			<maxfs>--</maxfs>
+			<varfs>506</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2012</year>
+			<specialname>国际经济与贸易</specialname>
+			<maxfs>450</maxfs>
+			<varfs>450</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2008</year>
+			<specialname>法学</specialname>
+			<maxfs>474</maxfs>
+			<varfs>474</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>法学</specialname>
+			<maxfs>498</maxfs>
+			<varfs>491</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

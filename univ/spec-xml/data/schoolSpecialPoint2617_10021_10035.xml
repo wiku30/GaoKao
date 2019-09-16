@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2011</year>
+			<specialname>生物技术</specialname>
+			<maxfs>517</maxfs>
+			<varfs>517</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2011</year>
+			<specialname>应用物理学</specialname>
+			<maxfs>527</maxfs>
+			<varfs>527</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2010</year>
+			<specialname>数学与应用数学</specialname>
+			<maxfs>510</maxfs>
+			<varfs>510</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>教育技术学</specialname>
+			<maxfs>513</maxfs>
+			<varfs>513</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

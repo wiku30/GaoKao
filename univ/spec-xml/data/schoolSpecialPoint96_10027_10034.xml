@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2007</year>
+			<specialname>汉语言文学</specialname>
+			<maxfs>559</maxfs>
+			<varfs>549</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>国际经济与贸易</specialname>
+			<maxfs>569</maxfs>
+			<varfs>563</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>公共事业管理</specialname>
+			<maxfs>547</maxfs>
+			<varfs>545</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>公共事业管理</specialname>
+			<maxfs>546</maxfs>
+			<varfs>541</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>国际经济与贸易</specialname>
+			<maxfs>578</maxfs>
+			<varfs>561</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

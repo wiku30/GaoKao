@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2007</year>
+			<specialname>市场营销</specialname>
+			<maxfs>525</maxfs>
+			<varfs>525</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>中医学</specialname>
+			<maxfs>494</maxfs>
+			<varfs>494</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>针灸推拿学</specialname>
+			<maxfs>508</maxfs>
+			<varfs>508</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>中西医临床医学</specialname>
+			<maxfs>570</maxfs>
+			<varfs>570</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

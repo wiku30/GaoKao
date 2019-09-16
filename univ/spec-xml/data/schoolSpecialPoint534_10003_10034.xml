@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2014</year>
+			<specialname>行政管理</specialname>
+			<maxfs>--</maxfs>
+			<varfs>497</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>英语</specialname>
+			<maxfs>496</maxfs>
+			<varfs>496</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>会展经济与管理</specialname>
+			<maxfs>491</maxfs>
+			<varfs>491</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2008</year>
+			<specialname>行政管理</specialname>
+			<maxfs>497</maxfs>
+			<varfs>497</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2008</year>
+			<specialname>英语</specialname>
+			<maxfs>483</maxfs>
+			<varfs>483</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

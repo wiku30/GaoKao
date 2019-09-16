@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2014</year>
+			<specialname>劳动与社会保障</specialname>
+			<maxfs>--</maxfs>
+			<varfs>528</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>工商管理类</specialname>
+			<maxfs>--</maxfs>
+			<varfs>520</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2013</year>
+			<specialname>劳动与社会保障</specialname>
+			<maxfs>516</maxfs>
+			<varfs>508</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2013</year>
+			<specialname>工商管理类</specialname>
+			<maxfs>521</maxfs>
+			<varfs>512</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

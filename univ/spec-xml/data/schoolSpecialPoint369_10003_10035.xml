@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2014</year>
+			<specialname>应用心理学</specialname>
+			<maxfs>--</maxfs>
+			<varfs>489</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>轨道交通信号与控制</specialname>
+			<maxfs>--</maxfs>
+			<varfs>485</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

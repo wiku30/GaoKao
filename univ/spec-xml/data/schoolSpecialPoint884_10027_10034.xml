@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2012</year>
+			<specialname>劳动与社会保障</specialname>
+			<maxfs>537</maxfs>
+			<varfs>536</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>会计学</specialname>
+			<maxfs>508</maxfs>
+			<varfs>507</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>广播电视新闻学</specialname>
+			<maxfs>508</maxfs>
+			<varfs>508</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2008</year>
+			<specialname>会计学</specialname>
+			<maxfs>502</maxfs>
+			<varfs>481</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

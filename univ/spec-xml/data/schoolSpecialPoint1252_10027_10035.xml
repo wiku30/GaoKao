@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2014</year>
+			<specialname>物联网工程</specialname>
+			<maxfs>--</maxfs>
+			<varfs>466</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>财务管理</specialname>
+			<maxfs>--</maxfs>
+			<varfs>459</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>计算机科学与技术</specialname>
+			<maxfs>--</maxfs>
+			<varfs>455</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>金属材料工程</specialname>
+			<maxfs>506</maxfs>
+			<varfs>478</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

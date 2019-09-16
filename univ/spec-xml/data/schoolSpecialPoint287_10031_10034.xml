@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2008</year>
+			<specialname>劳动与社会保障</specialname>
+			<maxfs>596</maxfs>
+			<varfs>596</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>劳动与社会保障</specialname>
+			<maxfs>585</maxfs>
+			<varfs>575</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

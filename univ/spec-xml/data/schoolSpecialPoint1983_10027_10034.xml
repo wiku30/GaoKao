@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2013</year>
+			<specialname>工业设计</specialname>
+			<maxfs>517</maxfs>
+			<varfs>512</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2013</year>
+			<specialname>工业工程</specialname>
+			<maxfs>520</maxfs>
+			<varfs>510</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2012</year>
+			<specialname>工业设计</specialname>
+			<maxfs>523</maxfs>
+			<varfs>522</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2012</year>
+			<specialname>工业工程</specialname>
+			<maxfs>543</maxfs>
+			<varfs>525</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

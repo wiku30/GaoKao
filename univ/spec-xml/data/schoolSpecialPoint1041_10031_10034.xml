@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2008</year>
+			<specialname>法学</specialname>
+			<maxfs>560</maxfs>
+			<varfs>556</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>法学</specialname>
+			<maxfs>590</maxfs>
+			<varfs>581</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>法学</specialname>
+			<maxfs>590</maxfs>
+			<varfs>581</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2005</year>
+			<specialname>国际经济与贸易</specialname>
+			<maxfs>519</maxfs>
+			<varfs>514</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>财务管理</specialname>
+			<maxfs>540</maxfs>
+			<varfs>521</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>旅游管理</specialname>
+			<maxfs>529</maxfs>
+			<varfs>517</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2013</year>
+			<specialname>教育学类</specialname>
+			<maxfs>509</maxfs>
+			<varfs>509</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2013</year>
+			<specialname>汉语言文学</specialname>
+			<maxfs>510</maxfs>
+			<varfs>507</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2013</year>
+			<specialname>汉语国际教育</specialname>
+			<maxfs>502</maxfs>
+			<varfs>500</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2013</year>
+			<specialname>农村区域发展</specialname>
+			<maxfs>505</maxfs>
+			<varfs>502</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2013</year>
+			<specialname>电子商务</specialname>
+			<maxfs>512</maxfs>
+			<varfs>506</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

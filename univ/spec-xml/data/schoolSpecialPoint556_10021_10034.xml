@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2015</year>
+			<specialname>法学</specialname>
+			<maxfs>551</maxfs>
+			<varfs>547</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2015</year>
+			<specialname>英语</specialname>
+			<maxfs>546</maxfs>
+			<varfs>545</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2015</year>
+			<specialname>财务管理</specialname>
+			<maxfs>556</maxfs>
+			<varfs>554</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>工商管理</specialname>
+			<maxfs>551</maxfs>
+			<varfs>549</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

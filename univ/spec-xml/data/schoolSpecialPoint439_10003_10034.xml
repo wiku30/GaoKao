@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2014</year>
+			<specialname>法学</specialname>
+			<maxfs>--</maxfs>
+			<varfs>498</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>应用心理学</specialname>
+			<maxfs>--</maxfs>
+			<varfs>499</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>经济学</specialname>
+			<maxfs>--</maxfs>
+			<varfs>504</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

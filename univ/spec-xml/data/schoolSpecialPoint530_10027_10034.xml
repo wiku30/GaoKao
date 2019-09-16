@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2015</year>
+			<specialname>公共事业管理</specialname>
+			<maxfs>473</maxfs>
+			<varfs>470</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2015</year>
+			<specialname>护理学</specialname>
+			<maxfs>483</maxfs>
+			<varfs>479</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2013</year>
+			<specialname>公共事业管理</specialname>
+			<maxfs>506</maxfs>
+			<varfs>502</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

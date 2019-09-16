@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2011</year>
+			<specialname>信息管理与信息系统</specialname>
+			<maxfs>492</maxfs>
+			<varfs>491</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2010</year>
+			<specialname>信息管理与信息系统</specialname>
+			<maxfs>506</maxfs>
+			<varfs>503</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

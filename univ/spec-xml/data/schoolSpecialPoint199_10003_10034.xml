@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2013</year>
+			<specialname>中国少数民族语言文学</specialname>
+			<maxfs>494</maxfs>
+			<varfs>494</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>汉语言文学</specialname>
+			<maxfs>459</maxfs>
+			<varfs>459</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

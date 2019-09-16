@@ -1,0 +1,8 @@
+http://gkcx.eol.cn/schoolhtm/schoolTemple/school140.htm
+
+
+理科
+http://gkcx.eol.cn/schoolhtm/scores/provinceScores140_10003_10035_10036.xml
+
+文科
+http://gkcx.eol.cn/schoolhtm/scores/provinceScores140_10003_10034_10036.xml

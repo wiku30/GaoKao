@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2010</year>
+			<specialname>市场营销</specialname>
+			<maxfs>493</maxfs>
+			<varfs>478</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>汉语言文学</specialname>
+			<maxfs>494</maxfs>
+			<varfs>483</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2008</year>
+			<specialname>中医学</specialname>
+			<maxfs>538</maxfs>
+			<varfs>523</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>应用心理学</specialname>
+			<maxfs>540</maxfs>
+			<varfs>511</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

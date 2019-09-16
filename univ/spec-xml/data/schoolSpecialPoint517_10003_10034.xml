@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2015</year>
+			<specialname>法学</specialname>
+			<maxfs>518</maxfs>
+			<varfs>518</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2015</year>
+			<specialname>行政管理</specialname>
+			<maxfs>510</maxfs>
+			<varfs>510</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>法学</specialname>
+			<maxfs>--</maxfs>
+			<varfs>492</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>行政管理</specialname>
+			<maxfs>--</maxfs>
+			<varfs>512</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

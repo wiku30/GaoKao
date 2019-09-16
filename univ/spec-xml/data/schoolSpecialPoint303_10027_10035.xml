@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2008</year>
+			<specialname>经济学</specialname>
+			<maxfs>440</maxfs>
+			<varfs>440</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2008</year>
+			<specialname>公共事业管理</specialname>
+			<maxfs>456</maxfs>
+			<varfs>455</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>经济学</specialname>
+			<maxfs>476</maxfs>
+			<varfs>476</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

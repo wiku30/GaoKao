@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2015</year>
+			<specialname>电子信息工程</specialname>
+			<maxfs>528</maxfs>
+			<varfs>514</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>信息与计算科学</specialname>
+			<maxfs>--</maxfs>
+			<varfs>534</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>临床医学</specialname>
+			<maxfs>491</maxfs>
+			<varfs>485</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>电气工程及其自动化</specialname>
+			<maxfs>417</maxfs>
+			<varfs>417</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

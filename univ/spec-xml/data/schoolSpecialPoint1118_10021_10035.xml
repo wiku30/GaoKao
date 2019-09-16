@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2010</year>
+			<specialname>法学</specialname>
+			<maxfs>511</maxfs>
+			<varfs>511</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>法学</specialname>
+			<maxfs>525</maxfs>
+			<varfs>518</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>行政管理</specialname>
+			<maxfs>522</maxfs>
+			<varfs>521</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>行政管理</specialname>
+			<maxfs>542</maxfs>
+			<varfs>541</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2006</year>
+			<specialname>家政学</specialname>
+			<maxfs>537</maxfs>
+			<varfs>533</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>旅游管理</specialname>
+			<maxfs>533</maxfs>
+			<varfs>531</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>社会学</specialname>
+			<maxfs>501</maxfs>
+			<varfs>501</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>市场营销</specialname>
+			<maxfs>496</maxfs>
+			<varfs>496</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

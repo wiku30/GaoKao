@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2015</year>
+			<specialname>应用统计学</specialname>
+			<maxfs>488</maxfs>
+			<varfs>485</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>应用统计学</specialname>
+			<maxfs>--</maxfs>
+			<varfs>491</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>信息管理与信息系统</specialname>
+			<maxfs>482</maxfs>
+			<varfs>482</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>统计学</specialname>
+			<maxfs>465</maxfs>
+			<varfs>465</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2014</year>
+			<specialname>电气工程及其自动化</specialname>
+			<maxfs>--</maxfs>
+			<varfs>493</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2013</year>
+			<specialname>应用化学</specialname>
+			<maxfs>477</maxfs>
+			<varfs>453</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2012</year>
+			<specialname>机械设计制造及其自动化</specialname>
+			<maxfs>458</maxfs>
+			<varfs>447</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2008</year>
+			<specialname>计算机科学与技术</specialname>
+			<maxfs>537</maxfs>
+			<varfs>535</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

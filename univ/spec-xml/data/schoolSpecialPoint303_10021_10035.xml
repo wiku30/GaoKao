@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2015</year>
+			<specialname>运动康复</specialname>
+			<maxfs>485</maxfs>
+			<varfs>464</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>运动康复</specialname>
+			<maxfs>--</maxfs>
+			<varfs>475</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>公共事业管理</specialname>
+			<maxfs>507</maxfs>
+			<varfs>507</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>经济学</specialname>
+			<maxfs>518</maxfs>
+			<varfs>511</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>经济学</specialname>
+			<maxfs>518</maxfs>
+			<varfs>511</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

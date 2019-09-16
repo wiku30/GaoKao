@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2015</year>
+			<specialname>农村区域发展</specialname>
+			<maxfs>--</maxfs>
+			<varfs>--</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2015</year>
+			<specialname>农林经济管理</specialname>
+			<maxfs>--</maxfs>
+			<varfs>--</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2014</year>
+			<specialname>农林经济管理</specialname>
+			<maxfs>--</maxfs>
+			<varfs>576</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2011</year>
+			<specialname>汉语言文学</specialname>
+			<maxfs>546</maxfs>
+			<varfs>526</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2011</year>
+			<specialname>英语</specialname>
+			<maxfs>519</maxfs>
+			<varfs>517</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2010</year>
+			<specialname>英语</specialname>
+			<maxfs>501</maxfs>
+			<varfs>501</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2010</year>
+			<specialname>汉语言文学</specialname>
+			<maxfs>521</maxfs>
+			<varfs>506</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

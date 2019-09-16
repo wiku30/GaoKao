@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2014</year>
+			<specialname>食品营养与检验教育</specialname>
+			<maxfs>--</maxfs>
+			<varfs>489</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2008</year>
+			<specialname>食品科学与工程</specialname>
+			<maxfs>460</maxfs>
+			<varfs>460</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>数学与应用数学</specialname>
+			<maxfs>484</maxfs>
+			<varfs>484</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>英语</specialname>
+			<maxfs>433</maxfs>
+			<varfs>425</varfs>
+			<pc>一批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>机械设计制造及其自动化</specialname>
+			<maxfs>431</maxfs>
+			<varfs>431</varfs>
+			<pc>一批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

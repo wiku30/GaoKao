@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2014</year>
+			<specialname>应用化学</specialname>
+			<maxfs>--</maxfs>
+			<varfs>464</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2010</year>
+			<specialname>应用物理学</specialname>
+			<maxfs>448</maxfs>
+			<varfs>448</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>应用物理学</specialname>
+			<maxfs>452</maxfs>
+			<varfs>445</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2008</year>
+			<specialname>应用物理学</specialname>
+			<maxfs>447</maxfs>
+			<varfs>447</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

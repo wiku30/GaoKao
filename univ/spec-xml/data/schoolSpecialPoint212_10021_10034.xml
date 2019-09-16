@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2005</year>
+			<specialname>法学</specialname>
+			<maxfs>496</maxfs>
+			<varfs>496</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>英语</specialname>
+			<maxfs>508</maxfs>
+			<varfs>507</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>会计学</specialname>
+			<maxfs>495</maxfs>
+			<varfs>490</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2005</year>
+			<specialname>人力资源管理</specialname>
+			<maxfs>496</maxfs>
+			<varfs>496</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

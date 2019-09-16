@@ -1,0 +1,57 @@
+<html>
+<head>
+<meta charset="UTF-8">
+
+</head>
+
+<body>
+
+
+
+<form enctype="multipart/form-data" action="report.php" method="get">
+    <table>
+	<tr>
+		<td><span>生源地区：</span></td>		
+		
+		<td><select name="province" id="txtname" class="xla_k">
+			<option value="BeiJing">北京</option>
+			<option value="HuBei">湖北</option>
+			<option value="HeiLongJiang">黑龙江</option>
+			<option value="LiaoNing">辽宁</option>
+    		</select></td>
+        </tr>
+        <tr>
+		<td><label for="txtname">分数：</label></td>
+		<td><input type="text" id="txtname" name="score" /></td>
+		<td><label for="txtname">（现仅支持一本院校，且分数在520~720之间）</label></td>
+        </tr>
+
+		<td><label for="txtname">学校所在地区</label></td>
+		<td><input type="text" id="txtname" name="tag1" /></td>
+		<td><label for="txtname">（精确到省或直辖市，不同地区用空格分隔，无要求可不填）</label></td>
+        </tr>
+	<tr>
+		<td><span>学校类型：</span></td>		
+		
+		<td><select name="tag2" id="txtname" class="xla_k">
+			<option value="">无要求</option>
+			<option value="985">985</option>
+			<option value="211">211</option>
+    		</select></td>
+        </tr>
+	<tr>
+		<td><label for="txtname">专业关键词：</label></td>
+		<td><input type="text" id="txtname" name="spec" /></td>
+		<td><label for="txtname">（若仅查询院校则不填）</label></td>
+        </tr>
+        <tr>
+		<td colspan=2>
+		<input type="submit" />
+            	</td>
+        </tr>
+    </table>
+</form> 
+
+</body>
+
+</html>

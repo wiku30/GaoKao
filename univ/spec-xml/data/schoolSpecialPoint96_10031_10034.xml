@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2007</year>
+			<specialname>汉语言文学</specialname>
+			<maxfs>595</maxfs>
+			<varfs>581</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>广播电视新闻学</specialname>
+			<maxfs>579</maxfs>
+			<varfs>576</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2007</year>
+			<specialname>日语</specialname>
+			<maxfs>589</maxfs>
+			<varfs>574</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>法学</specialname>
+			<maxfs>582</maxfs>
+			<varfs>473</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>广播电视新闻学</specialname>
+			<maxfs>572</maxfs>
+			<varfs>566</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

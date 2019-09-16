@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2006</year>
+			<specialname>数学与应用数学</specialname>
+			<maxfs>517</maxfs>
+			<varfs>517</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>资源环境与城乡规划管理</specialname>
+			<maxfs>527</maxfs>
+			<varfs>523</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>计算机科学与技术</specialname>
+			<maxfs>537</maxfs>
+			<varfs>522</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>化学工程与工艺</specialname>
+			<maxfs>516</maxfs>
+			<varfs>510</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

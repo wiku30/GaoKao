@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2006</year>
+			<specialname>国际经济与贸易</specialname>
+			<maxfs>513</maxfs>
+			<varfs>513</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>德语专业</specialname>
+			<maxfs>505</maxfs>
+			<varfs>505</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>动画</specialname>
+			<maxfs>552</maxfs>
+			<varfs>552</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>中德联合培养各专业（简称“2+3”项目）</specialname>
+			<maxfs>495</maxfs>
+			<varfs>495</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2006</year>
+			<specialname>信息管理与信息系统</specialname>
+			<maxfs>520</maxfs>
+			<varfs>520</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

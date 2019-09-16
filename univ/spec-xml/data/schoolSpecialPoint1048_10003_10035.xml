@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2013</year>
+			<specialname>会计学</specialname>
+			<maxfs>513</maxfs>
+			<varfs>513</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2010</year>
+			<specialname>市场营销</specialname>
+			<maxfs>465</maxfs>
+			<varfs>465</varfs>
+			<pc>二批</pc>
+			<stype>理科</stype>
+		</areapiont>
+</areapionts>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2011</year>
+			<specialname>政治学与行政学</specialname>
+			<maxfs>494</maxfs>
+			<varfs>485</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2010</year>
+			<specialname>政治学与行政学</specialname>
+			<maxfs>496</maxfs>
+			<varfs>485</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>政治学与行政学</specialname>
+			<maxfs>543</maxfs>
+			<varfs>542</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2009</year>
+			<specialname>护理学</specialname>
+			<maxfs>551</maxfs>
+			<varfs>548</varfs>
+			<pc>二批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>

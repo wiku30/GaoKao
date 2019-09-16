@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<areapionts>
+    	    <areapiont>
+			<year>2011</year>
+			<specialname>五年制本科中医学专业</specialname>
+			<maxfs>618</maxfs>
+			<varfs>566</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2011</year>
+			<specialname>法学</specialname>
+			<maxfs>583</maxfs>
+			<varfs>550</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+	    <areapiont>
+			<year>2011</year>
+			<specialname>公共事业管理</specialname>
+			<maxfs>527</maxfs>
+			<varfs>526</varfs>
+			<pc>一批</pc>
+			<stype>文科</stype>
+		</areapiont>
+</areapionts>
